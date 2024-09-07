@@ -1,0 +1,14 @@
+[
+  {
+    "path": "home",
+    "text": "Home"
+  },
+  {
+    "path": "about",
+    "text": "Profile"
+  },
+  {
+    "path": "contact",
+    "text": "Users"
+  }
+]

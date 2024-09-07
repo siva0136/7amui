@@ -1,0 +1,26 @@
+[
+    {
+        "label":"User Id",
+        "type":"text",
+        "errMsg":"",
+        "isShowError":false,
+        "name":"uid",
+        "value":"",
+        "criteria":[
+            "REQUIRED",
+            "EMAIL"
+        ]
+    },
+    {
+        "label":"Password",
+        "type":"password",
+        "errMsg":"",
+        "isShowError":false,
+        "name":"pwd",
+        "value":"",
+        "criteria":[
+            "REQUIRED",
+            "MIN5CHARS"
+        ]
+    }
+]

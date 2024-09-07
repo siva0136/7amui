@@ -1,0 +1,15 @@
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+    padding: 10px 0;
+}
+.menu a{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: #fff;
+}
+.menuActive{
+    color: red !important;
+}
